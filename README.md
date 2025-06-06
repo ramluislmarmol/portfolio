@@ -2,7 +2,7 @@
 Welcome to my portfolio! First off, thank you, recruiter, for taking the time on reading my resume and checking my projects. I had to learn a bit of github to make this work and I hope this small website can show myself as a suitable employee of your company. Cheers!
 
 ### Soda Manufacturing Dashboard
-insert image here
+[Soda Manufacturing Dashboard](assets/img/soda_manufacturing_dashboard.jpg)
 
 - Designed and built an interactive Power BI dashboard for analyzing soda manufacturing efficiency. Used Power Query to transform messy data for optimal model performance.
 - Incorporated diverse visualizations to highlight key operational insights, enhancing data accessibility and decision-making for production and operation managers. 
