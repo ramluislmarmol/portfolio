@@ -10,6 +10,19 @@ Welcome to my portfolio! First off, thank you, recruiter, for taking the time on
 - Incorporated diverse visualizations to highlight key operational insights, enhancing data accessibility and decision-making for production and operation managers. 
 - My entry for the Emerson x DAPH National Data Challenge 2025 (results pending).
 
+## Key Insights:
+- 55.91% of Total Downtime is caused by Operator Errors. Removing these will result in an 81.11 average production time, a 20.11% improvement.
+- Downtime per hour peaks at noon (12:00pm) and at closing hours (7:00pm) with a similar trend for operator-caused downtime.
+- Machine adjustment accounts for the highest contribution for operator-caused downtime. Interestingly, Mac accounts for the highest contribution in batch change, but the lowest contribution to machine adjustment.
+- RE-600 and LE-600 has noticeably high ratio of operator-caused downtime. OR-600 is also commendable. Whereas DC-600 has a high ratio of machine caused downtime.
+
+## My Recommendations:
+- Examine the area during the noon and closing hours to find the root cause of the spike. Possible causes may include but not limited to;
+-- the rising Philippine temperature, making working conditions for laborers uncomfortable during noon,
+-- “End of work” effect, where operators (anticipating the end of their shift) may psychologically disengage from tasks.
+- Operator training to reduce the effect of man-made error. Machine adjustment training for Charlie, Dee and Dennis and batch change training for Mac is recommended. Adding standard operating procedures and kanban system may prove useful.
+- Process inspection and study especially for RB-600 and LE-600 is recommended to help identify possible work errors. DC-600 machine inspection is also recommended .
+
 ## **Analyzing Motorcyle Part Sales**
 [Queries are hosted in DataCamp](https://www.datacamp.com/datalab/w/09c538e2-93e6-4498-ba97-ec3e0b05e031/edit)
 
