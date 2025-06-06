@@ -2,7 +2,8 @@
 Welcome to my portfolio! First off, thank you, recruiter, for taking the time on reading my resume and checking my projects. I had to learn a bit of github to make this work and I hope this small website can show myself as a suitable employee of your company. Cheers!
 
 ## **Soda Manufacturing Dashboard**
-Power BI, Power Query
+- **Power BI, Power Query**
+
 ![Soda Manufacturing Dashboard](assets/img/soda_manufacturing_dashboard.jpg)
 
 [.pbix download](https://drive.google.com/file/d/1IEu6XZctxySeirTcSL8DIw_xzSxSjWXF/view?usp=drive_link)
@@ -71,7 +72,8 @@ Downtime by Operator Error = CALCULATE(
 ```
 
 ## **Databel Churn Analysis Dashboard**
-Microsoft Excel
+- **Microsoft Excel**
+
 ![Databel Churn Analysis Dashboard_1](assets/img/databel_churn_dashboard_1.png)
 
 [.xlsx download](https://docs.google.com/spreadsheets/d/1tlPVsxLdzfV8ovVwf7D0yUElDeCeH112/edit?usp=sharing&ouid=101272627821031792003&rtpof=true&sd=true)
@@ -92,7 +94,8 @@ Microsoft Excel
 
 
 ## **Analyzing Motorcyle Part Sales**
-PostgreSQL
+- **PostgreSQL**
+
 [Queries are hosted in DataCamp](https://www.datacamp.com/datalab/w/09c538e2-93e6-4498-ba97-ec3e0b05e031/edit)
 
 - Used PostgreSQL to create queries that obtain data from a fictional motorcycle company. Used data management techniques to clean and organize the data–before using more advanced functions to answer specific business questions.
