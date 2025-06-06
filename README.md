@@ -1,5 +1,4 @@
-# **Portfolio and Projects**
-Welcome to my portfolio! First off, thank you, recruiter, for taking the time on reading my resume and checking my projects. I had to learn a bit of github to make this work and I hope this small website can show myself as a suitable employee of your company. Cheers!
+Welcome to my portfolio! First off, thank you, recruiter, for taking the time on reading my resume and checking my projects. I had to learn a bit of github to make this work and I hope this small website can prove myself as a suitable employee of your company. Cheers!
 
 ## **Soda Manufacturing Dashboard**
 - **Power BI, Power Query**
