@@ -1,5 +1,10 @@
-Welcome to my portfolio! Here I will showcase my current portfolio and 
+# Contacts
+- Phone: +639 47 327 2187
+- Email: ramluismarmol.edu@gmail.com
+- LinkedIn: [Ram Luis Marmol](https://www.linkedin.com/in/ram-luis-marmol-7b4b1b2a4/)
+- Facebook: [Ram Luis Marmol](https://www.facebook.com/ramluissss)
 
+# Projects
 ## Spam Messages Analysis
 ![spam_messages_dashboard.gif](assets/spam_messages_dashboard.gif)
 
