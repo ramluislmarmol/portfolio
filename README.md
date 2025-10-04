@@ -5,10 +5,8 @@
 - Facebook: [Ram Luis Marmol](https://www.facebook.com/ramluissss)
 
 # Projects
-## Soda Manufacturing Downtime Analysis
+## Soda Manufacturing Downtime Analysis | [GitHub Repository](https://github.com/ramluislmarmol/soda_manufacturing_dashboard)
 ![soda_manufacturing_dashboard.jpg](assets/soda_manufacturing_dashboard.jpg)
-
-For more info about the technicalities, visit my [GitHub Repository](https://github.com/ramluislmarmol/soda_manufacturing_dashboard) for this project.
 
 ### Key Insights
 - 55.91% of Total Downtime is caused by Operator Errors. Removing these will result in an 81.11 average production time, a 20.11% improvement.
@@ -23,10 +21,9 @@ For more info about the technicalities, visit my [GitHub Repository](https://git
 - Operator training to reduce the effect of man-made error. Machine adjustment training for Charlie, Dee and Dennis and batch change training for Mac is recommended. Adding standard operating procedures and kanban system may prove useful.
 - Process inspection and study especially for RB-600 and LE-600 is recommended to help identify possible work errors. DC-600 machine inspection is also recommended.
 
-## Spam Messages Analysis
+## Spam Messages Analysis | [GitHub Repository](https://github.com/ramluislmarmol/spam_messages_analysis)
 ![spam_messages_dashboard.gif](assets/spam_messages_dashboard.gif)
 
-For more info about the technicalities, visit my [GitHub Repository](https://github.com/ramluislmarmol/spam_messages_analysis) for this project.
 
 ### Key Insights
 - The average words per spam message received is 22.83 words, while the average characters is 135.89 characters.
@@ -34,10 +31,8 @@ For more info about the technicalities, visit my [GitHub Repository](https://git
 - Out of the 1014 messages, 38% of which contains a link.
 - Total messages per month peaks on February to May, with another sudden spike during the holidays.
 
-## Databel Churn Analysis Dashboard
+## Databel Churn Analysis Dashboard | [.xlsx file](https://docs.google.com/spreadsheets/d/1tlPVsxLdzfV8ovVwf7D0yUElDeCeH112/edit?usp=sharing&ouid=101272627821031792003&rtpof=true&sd=true)
 ![databel_churn_dashboard.png](assets/databel_churn_dashboard.png)
-
-For more info about the technicalities,you may download the [.xlsx file](https://docs.google.com/spreadsheets/d/1tlPVsxLdzfV8ovVwf7D0yUElDeCeH112/edit?usp=sharing&ouid=101272627821031792003&rtpof=true&sd=true) for this project.
 
 - Prepared and aggregated customer data in Microsoft Excel to identify key drivers of customer churn. 
 - Developed a comprehensive Excel dashboard with dynamic charts, visualizing churn patterns and presenting actionable insights for retention strategies.
