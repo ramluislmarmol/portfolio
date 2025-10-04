@@ -5,17 +5,6 @@
 - Facebook: [Ram Luis Marmol](https://www.facebook.com/ramluissss)
 
 # Projects
-## Spam Messages Analysis
-![spam_messages_dashboard.gif](assets/spam_messages_dashboard.gif)
-
-For more info about the technicalities, visit my [GitHub Repository](https://github.com/ramluislmarmol/spam_messages_analysis) for this project.
-
-### Key Insights
-- The average words per spam message received is 22.83 words, while the average characters is 135.89 characters.
-- TNT, Smart and Smart/TNT has the most spam messages received.
-- Out of the 1014 messages, 38% of which contains a link.
-- Total messages per month peaks on February to May, with another sudden spike during the holidays.
-
 ## Soda Manufacturing Downtime Analysis
 ![soda_manufacturing_dashboard.jpg](assets/soda_manufacturing_dashboard.jpg)
 
@@ -33,6 +22,17 @@ For more info about the technicalities, visit my [GitHub Repository](https://git
   - “End of work” effect, where operators (anticipating the end of their shift) may psychologically disengage from tasks.
 - Operator training to reduce the effect of man-made error. Machine adjustment training for Charlie, Dee and Dennis and batch change training for Mac is recommended. Adding standard operating procedures and kanban system may prove useful.
 - Process inspection and study especially for RB-600 and LE-600 is recommended to help identify possible work errors. DC-600 machine inspection is also recommended.
+
+## Spam Messages Analysis
+![spam_messages_dashboard.gif](assets/spam_messages_dashboard.gif)
+
+For more info about the technicalities, visit my [GitHub Repository](https://github.com/ramluislmarmol/spam_messages_analysis) for this project.
+
+### Key Insights
+- The average words per spam message received is 22.83 words, while the average characters is 135.89 characters.
+- TNT, Smart and Smart/TNT has the most spam messages received.
+- Out of the 1014 messages, 38% of which contains a link.
+- Total messages per month peaks on February to May, with another sudden spike during the holidays.
 
 ## Databel Churn Analysis Dashboard
 ![databel_churn_dashboard.png](assets/databel_churn_dashboard.png)
