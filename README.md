@@ -5,40 +5,20 @@
 - Facebook: [Ram Luis Marmol](https://www.facebook.com/ramluissss)
 
 # Projects
+## Northwind Traders | [Github Repository](https://github.com/ramluislmarmol/northwind_traders)
+![northwind_traders.gif](assets/northwind_traders.gif)
+This project aims to analyze the famous Northwind Traders dataset using an multipage interactive Power BI dashboard connected to a MySQL database. The goal of this project is to provide the top management for at-a-glance analysis of the current performance of the company. Focusing on implementing slicers and multipage report.
+
 ## Soda Manufacturing Downtime Analysis | [GitHub Repository](https://github.com/ramluislmarmol/soda_manufacturing_dashboard)
 ![soda_manufacturing_dashboard.jpg](assets/soda_manufacturing_dashboard.jpg)
-
-### Key Insights
-- 55.91% of Total Downtime is caused by Operator Errors. Removing these will result in an 81.11 average production time, a 20.11% improvement.
-- Downtime per hour peaks at noon (12:00pm) and at closing hours (7:00pm) with a similar trend for operator-caused downtime.
-- Machine adjustment accounts for the highest contribution for operator-caused downtime. Interestingly, Mac accounts for the highest contribution in batch change, but the lowest contribution to machine adjustment.
-- RE-600 and LE-600 has noticeably high ratio of operator-caused downtime. OR-600 is also commendable. Whereas DC-600 has a high ratio of machine caused downtime.
-
-### My Recommendations
-- Examine the area during the noon and closing hours to find the root cause of the spike. Possible causes may include but not limited to;
-  - the rising Philippine temperature, making working conditions for laborers uncomfortable during noon,
-  - “End of work” effect, where operators (anticipating the end of their shift) may psychologically disengage from tasks.
-- Operator training to reduce the effect of man-made error. Machine adjustment training for Charlie, Dee and Dennis and batch change training for Mac is recommended. Adding standard operating procedures and kanban system may prove useful.
-- Process inspection and study especially for RB-600 and LE-600 is recommended to help identify possible work errors. DC-600 machine inspection is also recommended.
+This project aims create a Power BI report on the downtime analysis of a soda manufacturing production data. With the goal of creating a "report" with Exploratory Data Analysis (EDA) instead of an interactive dashboard with slicers. The target audience of this report is the stakeholders of the company who can make decisions based on the insights provided by the said report.
 
 ## Spam Messages Analysis | [GitHub Repository](https://github.com/ramluislmarmol/spam_messages_analysis)
 ![spam_messages_dashboard.gif](assets/spam_messages_dashboard.gif)
-
-
-### Key Insights
-- The average words per spam message received is 22.83 words, while the average characters is 135.89 characters.
-- TNT, Smart and Smart/TNT has the most spam messages received.
-- Out of the 1014 messages, 38% of which contains a link.
-- Total messages per month peaks on February to May, with another sudden spike during the holidays.
+This project aims on analyzing spam messages from various mobile carriers in the Philippines using an interactive dashboard. It uses MySQL for database management and preliminary manipulation and Power BI for dynamic data visualization. This project's goal is to inform the public of spam messages, giving them an overview on where the messages come from, whats inside them and the general trends of messages.
 
 ## Databel Churn Analysis Dashboard | [.xlsx file](https://docs.google.com/spreadsheets/d/1tlPVsxLdzfV8ovVwf7D0yUElDeCeH112/edit?usp=sharing&ouid=101272627821031792003&rtpof=true&sd=true)
 ![databel_churn_dashboard.png](assets/databel_churn_dashboard.png)
 
-- Prepared and aggregated customer data in Microsoft Excel to identify key drivers of customer churn. 
-- Developed a comprehensive Excel dashboard with dynamic charts, visualizing churn patterns and presenting actionable insights for retention strategies.
+## Analyzing Motorcyle Part Sales| [Queries](https://www.datacamp.com/datalab/w/09c538e2-93e6-4498-ba97-ec3e0b05e031/edit)
 
-## Analyzing Motorcyle Part Sales
-[Queries are hosted in DataCamp](https://www.datacamp.com/datalab/w/09c538e2-93e6-4498-ba97-ec3e0b05e031/edit)
-
-- Used PostgreSQL to create queries that obtain data from a fictional motorcycle company. Used data management techniques to clean and organize the data–before using more advanced functions to answer specific business questions.
-- Communicated business concepts like net revenue, most profitable payment method, and most ordered motorcycle parts to create actionable insights, relevant to different departments in the company.
